@@ -8,6 +8,7 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
+map_Ka Leaves0156_1_S.png
 illum 2
 
 newmtl Leaves.001
@@ -17,6 +18,7 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
+map_Ka Leaves0120_35_S.png
 illum 2
 
 newmtl Leaves.002
@@ -26,6 +28,7 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
+map_Ka Leaves0142_4_S.png
 illum 2
 
 newmtl Material.001
@@ -35,6 +38,7 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
+map_Ka BarkDecidious0194_7_S.jpg
 illum 2
 
 newmtl Material.002
@@ -44,4 +48,5 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
+map_Ka BarkDecidious0143_5_S.jpg
 illum 2
