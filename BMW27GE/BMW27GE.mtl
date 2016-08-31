@@ -30,8 +30,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\plate.PNG
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\refBlured.png
+map_Kd textures\plate.PNG
+refl textures\\refBlured.png
 
 newmtl BlackPlasticGE_NONE
 Ns 58.823529
@@ -42,7 +42,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\refBlured.png
+refl textures\\refBlured.png
 
 newmtl BrakeGE
 Ns 96.078431
@@ -53,7 +53,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\brake.png
+map_Kd textures\\brake.png
 
 newmtl ChromeBrightGE
 Ns 17.647059
@@ -64,7 +64,7 @@ Ke 0.020000 0.020000 0.020000
 Ni 1.000000
 d 1.000000
 illum 1
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+refl textures\\ref.png
 
 newmtl ChromeGE
 Ns 37.254902
@@ -75,7 +75,7 @@ Ke 0.017064 0.018482 0.021404
 Ni 1.000000
 d 1.000000
 illum 2
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+refl textures\\ref.png
 
 newmtl ChromeMatteGE
 Ns 37.254902
@@ -86,7 +86,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\refBlured.png
+refl textures\\refBlured.png
 
 newmtl Emit
 Ns 96.078431
@@ -107,7 +107,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.500000
 illum 2
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+refl textures\\ref.png
 
 newmtl GlassGE
 Ns 115.686275
@@ -118,8 +118,8 @@ Ke 0.058943 0.081711 0.107564
 Ni 1.000000
 d 0.300000
 illum 1
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\backwindow.png
-map_d  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+map_Kd textures\backwindow.png
+map_d textures\\ref.png
 
 newmtl HeadlightGlassGE
 Ns 45.098039
@@ -130,8 +130,8 @@ Ke 1.000000 1.000000 1.000000
 Ni 1.000000
 d 0.100000
 illum 2
-map_d  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+map_d textures\\ref.png
+refl textures\\ref.png
 
 newmtl HeadlightHousing
 Ns 37.254902
@@ -142,7 +142,7 @@ Ke 1.574824 1.737799 2.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\HeadlightAO.png
+map_Kd textures\HeadlightAO.png
 
 newmtl InteriorGE
 Ns 96.078431
@@ -163,8 +163,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\plate.PNG
-map_Bump -bm 0.020000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\plateBump.png
+map_Kd textures\plate.PNG
+map_Bump -bm 0.020000 textures\\plateBump.png
 
 newmtl RedPlasticGE
 Ns 96.078431
@@ -175,7 +175,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\refBlured.png
+refl textures\\refBlured.png
 
 newmtl Sky
 Ns 0.000000
@@ -186,7 +186,7 @@ Ke 0.715048 0.715048 0.715048
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\dayfair.jpg
+map_Kd textures\dayfair.jpg
 
 newmtl TailLightGE
 Ns 47.058824
@@ -197,9 +197,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\tailight.jpg
-map_Ks  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\tailight.jpg
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+map_Kd textures\tailight.jpg
+map_Ks textures\\tailight.jpg
+refl textures\\ref.png
 
 newmtl TireGE
 Ns 96.078431
@@ -210,8 +210,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Filip\AppData\Local\Temp\Temp1_BMW27GE.blend.zip\textures\sidewall.png
-map_Bump -bm 0.050000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\sidewall.png
+map_Kd textures\sidewall.png
+map_Bump -bm 0.050000 textures\\sidewall.png
 
 newmtl bodyGE.Blue
 Ns 37.254902
@@ -222,9 +222,9 @@ Ke 0.003186 0.009181 0.022399
 Ni 1.000000
 d 1.000000
 illum 2
-map_Bump -bm 0.020000 -s 15.000000 15.000000 15.000000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\clearcoat_NRM.png
-map_Kd -s 20.000000 20.000000 10.000000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\sparkle.png
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\ref.png
+map_Bump textures\\clearcoat_NRM.png
+map_Kd textures\\sparkle.png
+refl textures\\ref.png
 
 newmtl uberFloor
 Ns 0.000000
@@ -235,8 +235,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Bump -bm -0.500000 -s 6.000000 6.000000 1.000000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\GroundConcreteFloorDirty_02_NRM.jpg
-map_Kd -s 8.000000 8.000000 1.000000 C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\GroundConcreteFloorDirty_02.jpg
-map_Ks  .
-map_Ns  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\FloorGloss.png
-refl  C:\\Users\\Filip\\AppData\\Local\\Temp\\Temp1_BMW27GE.blend.zip\\textures\\FloorGloss.png
+map_Bump textures\\GroundConcreteFloorDirty_02_NRM.jpg
+map_Kd textures\\GroundConcreteFloorDirty_02.jpg
+map_Ns textures\\FloorGloss.png
+refl textures\\FloorGloss.png
